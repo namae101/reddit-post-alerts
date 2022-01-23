@@ -1,0 +1,6 @@
+aiohttp==3.7.4
+alabaster==0.7.10
+discord.py==1.7.3
+praw==7.5.0
+psycopg2-binary==2.9.3
+python-dotenv==0.19.2
